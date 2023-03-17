@@ -69,6 +69,10 @@ p {
     display: grid;
     grid-template-columns: 4fr 2fr;
 }
+
+.feature-photo > img {
+    width: 100%;
+}
 /*Subscribe styles*/
 
 .button {
