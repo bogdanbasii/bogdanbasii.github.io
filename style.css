@@ -57,6 +57,13 @@ p {
 .about-text{
     text-align: justify;
     margin: 10px;
+    font-size: 20px;
+    font-family: "American Typewriter";
+}
+
+p {
+    font-family: "American Typewriter";
+    font-size: 25px;
 }
 
 .about-photo > img {
