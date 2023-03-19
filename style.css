@@ -1,10 +1,10 @@
 body {
-    background: white;
+    background: black;
     margin: 0px;
 }
 /* Header styles*/
 .header-container {
-    background: blanchedalmond;
+    background: palevioletred;
     display: grid;
     grid-template-columns: 3fr 1fr 1fr 1fr 3fr;
     height: 42px;
@@ -14,6 +14,7 @@ body {
 .logo{
     margin-left: 20px;
     font-size: 25px;
+    font-family: "October Crow";
 }
 
 .header-item {
@@ -42,6 +43,7 @@ body {
 
 p {
     text-align: center;
+    color: white;
 }
 
 /*About styles*/
@@ -58,11 +60,12 @@ p {
     text-align: justify;
     margin: 10px;
     font-size: 20px;
-    font-family: "American Typewriter";
+    font-family: "Extrafine";
+    color: white;
 }
 
 p {
-    font-family: "American Typewriter";
+    font-family: "October Crow";
     font-size: 25px;
 }
 
@@ -92,7 +95,7 @@ p {
 /*Footer styles*/
 
 .footer-container {
-    background: blanchedalmond;
+    background: palevioletred;
     display: grid;
     grid-template-columns: 1fr 1fr 1fr 1fr;
     height: 42px;
